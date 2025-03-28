@@ -1,0 +1,5 @@
+charc 1:alex - a brave detective,
+char 2:mia - a tech-savvy assistant,
+char 3:watson - a retired detective
+
+
